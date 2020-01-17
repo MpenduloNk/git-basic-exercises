@@ -1,0 +1,428 @@
+    1  sudo bash
+    2  tee touch
+    3  sudo apt install snapd
+    4  su -
+    5  su
+    6  reboot
+    7  sudo apt install snapd
+    8  sudo snap install code --classic
+    9  reboot
+   10  sudo apt install chrome
+   11  sudo snap install chrome
+   12  javac
+   13  sudo apt install default-jdk 
+   14  javac
+   15  sudo apt install default-jdk
+   16  sudo apt install java-jdk
+   17  javac
+   18  sudo apt install default-jdk 
+   19  javac
+   20  sudo apt install openjdk-11-jdk-headless
+   21  javac
+   22  sudo apt install openjdk-8-jdk-headless 
+   23  reboot
+   24  /usr/lib/jvm/java-8-openjdk-amd64/bin/java -Dfile.encoding=UTF-8 -cp /home/recruit/.config/Code/User/workspaceStorage/53606b143209c15ad1a99f4c9348b6c6/redhat.java/jdt_ws/java_first_cf60dd8/bin exercise1 
+   25  sudo snap install intellj-idea-communit --classic
+   26  sudo snap install intellij-idea-communit --classic
+   27  sudo snap install intellij-idea-community --classic
+   28  ls
+   29  pwd
+   30  mkdir workspace 
+   31  cd /workspace
+   32  ls
+   33  cd workshop
+   34  cd ..
+   35  cd workspace
+   36  ls
+   37  cd
+   38  cd -rf workspace
+   39  cd workspace
+   40  ls
+   41  touch README.md
+   42  cp -rf README.md CHANGELOG.md
+   43  ls
+   44  cd
+   45  touch exercise.md
+   46  ls
+   47  mv -rf exercise.md Templates 
+   48  mv exercise.md Templates 
+   49  cd Templates/ls
+   50  cd Templates
+   51  ls
+   52  cd
+   53  cd Templates/rm exercise.md
+   54  cd Templates
+   55  rm exercise.md
+   56  ls
+   57  cd
+   58  touch umuzi.md, recruits.md, cohort.md
+   59  ls
+   60  tee umuzi.md
+   61  cat umuzi.md
+   62  tee recruits.md
+   63  tee cohort
+   64  cd /etc/tmp
+   65  close
+   66  ls
+   67  cd /
+   68  ls
+   69  cd /var/tmp/
+   70  cd
+   71  touch exercise.md
+   72  cd /
+   73  cd
+   74  mv exercise.md /var/tmp/
+   75  cd /
+   76  ls /var/tmp/
+   77  pwd
+   78  cd ../
+   79  pwd
+   80  cd ../tmp
+   81  pwd
+   82  rm exercise.md 
+   83  ls
+   84  cd
+   85  cd /
+   86  cd ../tmp/
+   87  ls
+   88  cd 
+   89  cd /var/tmp/
+   90  ls
+   91  cd
+   92  cd /
+   93  cd tmp
+   94  ls
+   95  la
+   96  rm exercise.md
+   97  cd
+   98  cd /
+   99  rm exercise.md ../tmp
+  100  cd
+  101  ls
+  102  cd /
+  103  rm exercise.md /var/tmp
+  104  rm exercise.md /var/tmp/
+  105  cd /var/tmp
+  106  ls
+  107  rm exercise.md
+  108  ls
+  109  cd
+  110  touch
+  111  touch exercise.md
+  112  cd ..
+  113  cd
+  114  mv exercise.md ../temp/
+  115  mv exercise.md ../temp
+  116  mv -rf exercise.md ../temp
+  117  mv exercise.md ../temp
+  118  mv exercise.md ../tmp
+  119  mv -rf exercise.md ../tmp
+  120  mv -rf exercise.md ../tmp/
+  121  mv  exercise.md ../tmp/
+  122  move  exercise.md ../tmp/
+  123  mv  exercise.md ../tmp/
+  124  cd /
+  125  ls
+  126  mv  exercise.md ../tmp
+  127  mv  <exercise.md> <../tmp>
+  128  mv  exercise.md ../tmp
+  129  cd
+  130  mv exercise.md ../tmp
+  131  mv exercise.md ../tmp/
+  132  mv -rf exercise.md ../tmp/
+  133  mv exercise.md ../tmp
+  134  mv exercise.md /tmp
+  135  cd /
+  136  cd ../tmp
+  137  ls
+  138  cd
+  139  cd /var/tmp/
+  140  cd
+  141  cd /
+  142  cd /var/tmp
+  143  rm -rf exercise.md
+  144  ls
+  145  cd
+  146  ls
+  147  cat umuzi.md cohort.md recruit.md
+  148  cat umuzi.md cohort.md > recruit.md
+  149  cat recruit.md
+  150  cat umuzi.md
+  151  cat cohort.md
+  152  cat recruit.md
+  153  tee cohort.md
+  154  cat cohort.md
+  155  tee recruit.md
+  156  cat recruit.md
+  157  cat umuzi.md
+  158  cat umuzi.md recruit.md cohort.md > newScrit.md
+  159  cat newScript
+  160  cat newScript.md
+  161  cat newScrit.md
+  162  cat umuzi.md recruit.md cohort.md > summary.md
+  163  cat summary.md
+  164  cat umuzi.md recruit.md cohort.md
+  165  echo ' The End' >> summary.md
+  166  cat summary.md
+  167  locate bash_completion.sh
+  168  locate -b '\umuzi'
+  169  cd
+  170  locate -b '\umuzi.md'
+  171  locate umuzi.md
+  172  locate -b '\umuzi.md' >> search_result.md
+  173  cat search_result.md
+  174  cd ../Documents
+  175  cd Documents
+  176  touch pad.md
+  177  cd
+  178  cd DEsktop
+  179  cd Desktop
+  180  mkdir work
+  181  cp pad.md pad_copy.md
+  182  cp pad.md >> pad_copy.md
+  183  ls
+  184  cd
+  185  ls
+  186  cd Documents
+  187  ls
+  188  cp pad.md >> Desktop pad_copy.md
+  189  cd
+  190  cd Desktop 
+  191  ls
+  192  cd\
+  193  cd
+  194  locate umuzi.md
+  195  ls
+  196  rm umuzi.md,
+  197  ls
+  198  locate umuzi.md
+  199  cd Desktop
+  200  ls
+  201  cd -
+  202  locate pad_copy.md
+  203  cd Documents
+  204  cp pad.md >> Desktop  mv pad_copxx.md
+  205  cp pad_copy.md >> Desktop  mv pad_copxx.md
+  206  cp pad_copy.md >> Desktop pad_copy.md
+  207  cp pad_copy.md newcopy >> Desktop
+  208  cd
+  209  cd Desktop 
+  210  ls
+  211  cd
+  212  cd Documents
+  213  touch letter.md
+  214  cd
+  215  cd Desktop 
+  216  cd
+  217  cd Documents
+  218  cp letter.md loveLetter.md >> Desktop
+  219  ls
+  220  cd 
+  221  cd Desktop
+  222  ls
+  223  cd
+  224  cd Desktop
+  225  cp letter.md >> loveLetter.md >> Desktop
+  226  cd
+  227  cd Documents
+  228  cp letter.md >> loveLetter.md >> Desktop
+  229  rm letter.md
+  230  rm loveletter
+  231  rm loveletter.md
+  232  ls
+  233  cd 
+  234  cd Desktop
+  235  ls
+  236  rm pad_copy.md
+  237  rm Desktop
+  238  cd
+  239  cd Documents
+  240  ls
+  241  rm newcopy pad_copy.md 
+  242  rm loveletter.md Desktop
+  243  rm -rf loveletter.md Desktop
+  244  ls
+  245  rm -rf loveLetter.md
+  246  kls
+  247  ls
+  248  cp pad.md ~/Desktop/work pad_copy.md
+  249  cp pad.md ~/Desktop/work/ pad_copy.md
+  250  cd
+  251  cp pad.md ~/Desktop/work/ pad_copy.md
+  252  cp pad.md pad_copy.md ~/Desktop/work/
+  253  cp pad.md pad_copy.md ~/Desktop/work
+  254  cd Documents
+  255  cp pad.md pad_copy.md ~/Desktop/work
+  256  cp pad.md pad_copy.md ~/Desktop/work/
+  257  cp pad.md ~/Desktop/work/pad_copy.md
+  258  cd
+  259  cd Desktop
+  260  ls
+  261  cd work
+  262  ls
+  263  cd
+  264  locate updatedb
+  265  locate pad_copy.md
+  266  find *.pdf
+  267  find ~ *.pdf
+  268  find ~  *.pdf 
+  269  ls 
+  270  cd
+  271  locate *.pdf
+  272  find *.pdf
+  273  cd /
+  274  find ~  *.pdf 
+  275  cd
+  276  locate *.pdf
+  277  locate *.pdf ~/Documents
+  278  cd Documents
+  279  ls 
+  280  locate *.pdf
+  281  ls *.pdf
+  282  ls la *.pdf
+  283  locate *.pdf
+  284  cd
+  285  find -daystart -ctime 0 -print
+  286  locate -daystart -ctime 0 -print
+  287  cat umuzi.md recruit.md cohort >> summary.md
+  288  cat summary.md 
+  289  echo '\The end' summary.md
+  290  ls
+  291  echo "The end" summary.md
+  292  echo 'The end' >>  summary.md
+  293  cat summary.md
+  294  locate pad.md
+  295  find -daystart -ctime 0 -print
+  296  nano touch my_bio.md
+  297  cat my_bio.md
+  298  nano touch my_bio.md
+  299  cat my_bio.md
+  300  nano touch my_bio.md
+  301  cat my_bio.md
+  302  nano touch my_bio.md
+  303  cat my_bio.md
+  304  nano touch my_boo.md
+  305  cat my_bio.md
+  306  mkdir createdFile
+  307  mv my_bio.md ~/createdFile
+  308  cd Documents
+  309  cd my_challenges
+  310  ls
+  311  cd
+  312  cd Desktop
+  313  ls
+  314  cd
+  315  locate *.pdf
+  316  locate *.pdf ~/Documents
+  317  cd Desktop
+  318  ls
+  319  cd my_challenges
+  320  ls
+  321  cat Task 1:
+  322  cat Task 1:.txt
+  323  cd
+  324  sudo apt install git
+  325  git clone https://github.com/MpenduloNk/Challenges.git
+  326  cd Challenges/
+  327  ls
+  328  git add Linux Challenges.txt 
+  329  git add *
+  330  git status
+  331  git commit -m "my linux task"
+  332  git config --global user.email "you@example.com"
+  333  git config --global user.email "nkosinathisithole99@gmail.com"
+  334  git config --global user.email "you@example.com"
+  335  git config --global user.name "MpenduloNk"
+  336  git push
+  337  ls
+  338  git status
+  339  git commit -m "my linux task"
+  340  git push
+  341  git init
+  342  git-basic-exercises
+  343  mkdir git-basic-exercises
+  344  cd git-basic-exercises/
+  345  git init
+  346  ls -a
+  347  git status
+  348  touch README.md
+  349  ls -a
+  350  git status
+  351  git log
+  352  git add README.md
+  353  git status
+  354  git rm --cached <README.md>
+  355  git rm --cached README.md
+  356  git status
+  357  git commit -m "initial commit"
+  358  git add README.md
+  359  git commit -m "initial commit"
+  360  git log
+  361  q
+  362  nano README.md
+  363  cat README.md 
+  364  nano README.md
+  365  cat README.md 
+  366  git status
+  367  git commit -m "second commit"
+  368  git add README.md
+  369  git commit -m "second commit"
+  370  git commit -m "third commit"
+  371  git add README.md
+  372  git commit -m "third commit"
+  373  git log
+  374  git add
+  375  git add README.md
+  376  git commit -m "third commit"
+  377  git status
+  378  git reset HEAD README.md
+  379  git status
+  380  git add README.md
+  381  git staatus
+  382  git status
+  383  git stats
+  384  nano README.md
+  385  cat README.md
+  386  git log
+  387  nano README.md
+  388  git status
+  389  git add README.md
+  390  git commit -m "third commit"
+  391  recruit@admin1-ThinkCentre-M72e:~/git-basic-exercises$ git add README.md
+  392  recruit@admin1-ThinkCentre-M72e:~/git-basic-exercises$ git commit -m "third commit"
+  393  git log
+  394  git chechout
+  395  git checkout
+  396  git checkout 54af8ec2c6a2d660860f92f308ff4cfb4011913e
+  397  cat README.md 
+  398  git checkout master
+  399  cat README.md 
+  400  git branch
+  401  git branch milkshake_flavours
+  402  git branch
+  403  git checkout milkshake_flavours 
+  404  git branch
+  405  nano milkshakes.md
+  406  git status
+  407  git add milkshakes.md 
+  408  git commit -m  "added initial flavours"
+  409  git status
+  410  git log
+  411  git checkout master
+  412  git branch history
+  413  git log
+  414  history > history.txt
+  415  git add history.txt
+  416  git commit -m "added history"
+  417  git status
+  418  git log
+  419  ls -a
+  420  cat README.md
+  421  git log
+  422  ls -a
+  423  git branch
+  424  rm history.txt
+  425  ls -a
+  426  git checkout history
+  427  git branch
+  428  history > history.txt
