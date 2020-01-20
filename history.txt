@@ -412,6 +412,7 @@
   412  git branch history
   413  git log
   414  history > history.txt
+<<<<<<< HEAD
   415  git add history.txt
   416  git commit -m "added history"
   417  git status
@@ -426,3 +427,5 @@
   426  git checkout history
   427  git branch
   428  history > history.txt
+=======
+>>>>>>> master
